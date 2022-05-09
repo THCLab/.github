@@ -10,12 +10,16 @@ When it comes to data transfered over the wire, it is usually preconceived that 
 
 ##### Components
 - [KERIOX](https://github.com/THCLab/keriox) is the fundamental piece that implements [KERI](https://keri.one/) infrastructure leveraging the digital identifiers and hence the proof of provenance to the next level. As KERIOX is implemented in Rust, we leverage the lang core features and expose bindings through FFI layer to other languages:
-  - wef
+  - JavaScript/Typescript (Node.JS via NAPI) – https://github.com/THCLab/keri-bindings/tree/master/bindings/node.js
+  - Dart – https://github.com/THCLab/keri-bindings/tree/master/bindings/dart
 - [TELIOX](https://github.com/THCLab/teliox) is tightly coupled with KERIOX and provides the TEL implementation (Transaction Event Logs) which is basically a non repudiable log of execution of some state machine (VC issuance/revocation in this case).
 - [CESROX](https://github.com/THCLab/cesrox) is the CESR implementation in Rust.
 
 #### Integral data
 
+WIP
+
+- [SAI](https://github.com/THCLab/sai)
 
 
 
