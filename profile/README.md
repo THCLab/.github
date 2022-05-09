@@ -28,7 +28,7 @@ WIP
 
 
 ### DDE Stack
-![alt text](./stack2.png "DDE stack")
+![alt text](profile/stack2.png "DDE stack")
 
 
 
