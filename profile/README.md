@@ -15,6 +15,10 @@ When it comes to data transfered over the wire, it is usually preconceived that 
 - [TELIOX](https://github.com/THCLab/teliox) is tightly coupled with KERIOX and provides the TEL implementation (Transaction Event Logs) which is basically a non repudiable log of execution of some state machine (VC issuance/revocation in this case).
 - [CESROX](https://github.com/THCLab/cesrox) is the CESR implementation in Rust.
 
+Apart from that, we provide core components for KERI infrastructure:
+- [KERI Witness](https://hub.docker.com/r/humancolossus/keriox-witness)
+- [KERI Watcher](https://hub.docker.com/r/humancolossus/keriox-watcher)
+
 #### Integral data
 
 WIP
