@@ -2,7 +2,7 @@ Hi there, wanderer!
 
 No matter whether you visit this space just out of curiosity or looking for something specific, let us do a quick, yet intense introduction to what you can find here. We are a team of individuals that truly believe in a world, where data flows do not end up in a few data silos. We believe in the opposite, where individuals are in the centre of these flows and they are controlled by them. The decentralization is a next inevitable step towards individuals. To achieve that, we need to build proper tech that operates in a decentralized paradigm, without any central point of control. This is more complex, yet we have a vision for it. We also encourage you to [get acquainted](https://humancolossus.foundation/blog/dde-first-contact) a bit deeper into this topic.
 
-Now, if you are still with us, let us guide you through the stack we believe is a key to achieve our beliefs mentioned above. To achieve each layer (see [DDE Stack](https://github.com/THCLab/.github/edit/main/profile/README.md#dde-stack)), various components and supporting libs playing together are essential. 
+Now, if you are still with us, let us guide you through the stack we believe is a key to achieve our beliefs mentioned above. To achieve each layer (see [DDE Stack](https://github.com/THCLab/.github/main/profile/README.md#dde-stack)), various components and supporting libs playing together are essential. 
 
 #### Authentic data
 
