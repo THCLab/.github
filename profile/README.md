@@ -13,17 +13,15 @@ When it comes to data transfered over the wire, it is usually preconceived that 
   - JavaScript/Typescript (Node.JS via NAPI) – https://github.com/THCLab/keri-bindings/tree/master/bindings/node.js
   - Dart – https://github.com/THCLab/keri-bindings/tree/master/bindings/dart
 - [TELIOX](https://github.com/THCLab/teliox) is tightly coupled with KERIOX and provides the TEL implementation (Transaction Event Logs) which is basically a non repudiable log of execution of some state machine (VC issuance/revocation in this case).
-- [CESROX](https://github.com/THCLab/cesrox) is the CESR implementation in Rust.
+- [CESROX](https://github.com/THCLab/cesrox) is the [CESR](https://weboftrust.github.io/ietf-cesr/draft-ssmith-cesr.html) implementation in Rust.
 
 Apart from that, we provide core components for KERI infrastructure:
 - [KERI Witness](https://hub.docker.com/r/humancolossus/keriox-witness)
 - [KERI Watcher](https://hub.docker.com/r/humancolossus/keriox-watcher)
 
-#### Integral data
+#### Integrity of the data
 
-WIP
-
-- [SAI](https://github.com/THCLab/sai)
+- [SAI](https://github.com/THCLab/sai) - Self-Addressing Identifier provides a compact text representation of digests of data. It supports multiple hash algorithms.
 
 
 
