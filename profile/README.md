@@ -24,7 +24,7 @@ Apart from that, we provide core components for KERI infrastructure:
 #### Integrity of the data
 
 - [OCA](https://github.com/THCLab/oca-rs) - Implementation of [Overlays Capture Architecture](https://oca.colossi.network/).
-- [SAI](https://github.com/THCLab/sai) - Self-Addressing Identifier provides a compact text representation of digests of data. It supports multiple hash algorithms.
+- [SAID](https://github.com/THCLab/cesrox/tree/master/said) - Self-Addressing Identifier provides a compact text representation of digests of data. It supports multiple hash algorithms.
 
 
 
