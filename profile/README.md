@@ -33,7 +33,7 @@ Apart from that, we provide core components for KERI infrastructure:
 
 
 ### DDE Stack
-![alt text](profile/stack2.png "DDE stack")
+![alt text](stack2.png "DDE stack")
 
 
 
