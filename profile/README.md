@@ -18,8 +18,8 @@ When it comes to data transferred over the wire, it is usually preconceived that
 - [CESROX](https://github.com/THCLab/cesrox) is the [CESR](https://weboftrust.github.io/ietf-cesr/draft-ssmith-cesr.html) implementation in Rust.
 
 Apart from that, we provide core components for KERI infrastructure:
-- [KERI Witness](https://hub.docker.com/r/humancolossus/keriox-witness)
-- [KERI Watcher](https://hub.docker.com/r/humancolossus/keriox-watcher)
+- [KERI Witness](https://github.com/THCLab/keriox/releases)
+- [KERI Watcher](https://github.com/THCLab/keriox/releases)
 
 #### Integrity of the data
 
